@@ -1,0 +1,5 @@
+name = "ss-bot"
+main = "src/index.js"
+compatibility_date = "2026-10-13"
+account_id = "YOUR_ACCOUNT_ID"
+workers_dev = true
