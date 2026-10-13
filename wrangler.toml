@@ -1,5 +1,5 @@
 name = "ss-bot"
 main = "src/index.js"
 compatibility_date = "2026-10-13"
-account_id = "YOUR_ACCOUNT_ID"
+account_id = "c766bdbfe6b2a5e84ed17e103a895abb"
 workers_dev = true
